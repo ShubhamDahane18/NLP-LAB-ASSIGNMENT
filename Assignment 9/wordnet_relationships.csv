@@ -1,0 +1,20 @@
+Word,Synonyms,Antonyms,Hypernyms
+car,"['motorcar', 'elevator_car', 'automobile', 'gondola', 'railway_car', 'railcar', 'cable_car', 'machine', 'car', 'auto', 'railroad_car']",[],"['wheeled_vehicle', 'motor_vehicle', 'compartment']"
+is,"['follow', 'equal', 'make_up', 'personify', 'be', 'exist', 'cost', 'embody', 'constitute', 'live', 'represent', 'comprise']",['differ'],"['take', 'be', 'stay', 'typify']"
+very,"['rattling', 'very', 'identical', 'selfsame', 'real', 'really']",[],[]
+fast,"['immobile', 'dissolute', 'flying', 'fast', 'truehearted', 'degenerate', 'degraded', 'tight', 'riotous', 'debauched', 'fasting', 'loyal', 'libertine', 'dissipated', 'firm', 'profligate', 'quick']",['slow'],"['abstain', 'abstinence']"
+good,"['unspoilt', 'adept', 'sound', 'dependable', 'commodity', 'skillful', 'effective', 'upright', 'goodness', 'trade_good', 'near', 'dear', 'just', 'honest', 'in_force', 'unspoiled', 'well', 'secure', 'honorable', 'in_effect', 'right', 'full', 'ripe', 'undecomposed', 'soundly', 'salutary', 'skilful', 'expert', 'serious', 'practiced', 'proficient', 'safe', 'estimable', 'thoroughly', 'beneficial', 'good', 'respectable']","['evil', 'evilness', 'badness', 'ill', 'bad']","['morality', 'artifact', 'quality', 'advantage']"
+A,"['type_A', 'deoxyadenosine_monophosphate', 'ampere', 'axerophthol', 'angstrom_unit', 'group_A', 'amp', 'adenine', 'a', 'angstrom', 'vitamin_A', 'antiophthalmic_factor', 'A']",[],"['fat-soluble_vitamin', 'current_unit', 'metric_linear_unit', 'blood_group', 'nucleotide', 'purine', 'letter']"
+happy,"['felicitous', 'glad', 'happy', 'well-chosen']",['unhappy'],[]
+person,"['individual', 'somebody', 'person', 'mortal', 'someone', 'soul']",[],"['human_body', 'causal_agent', 'grammatical_category', 'organism']"
+usually,"['usually', 'ordinarily', 'commonly', 'normally', 'unremarkably']",['remarkably'],[]
+drives,"['motor', 'movement', 'get', 'driving_force', 'beat_back', 'effort', 'campaign', 'labour', 'labor', 'driving', 'tug', 'repel', 'private_road', 'take', 'thrust', 'push_back', 'force', 'aim', 'ride', 'parkway', 'cause', 'ram', 'force_back', 'drive', 'repulse', 'crusade', 'driveway', 'push']",['attract'],"['traverse', 'excavate', 'travel', 'venture', 'operate', 'power', 'move', 'coerce', 'thrust', 'physical_condition', 'propel', 'fight', 'transportation', 'throw', 'propulsion', 'hit', 'journey', 'mean', 'return', 'mechanism', 'golf_stroke', 'hunt', 'drive', 'make', 'device', 'road', 'trait', 'work', 'push']"
+a,"['type_A', 'deoxyadenosine_monophosphate', 'ampere', 'axerophthol', 'angstrom_unit', 'group_A', 'amp', 'adenine', 'a', 'angstrom', 'vitamin_A', 'antiophthalmic_factor', 'A']",[],"['fat-soluble_vitamin', 'current_unit', 'metric_linear_unit', 'blood_group', 'nucleotide', 'purine', 'letter']"
+vehicle,"['vehicle', 'fomite']",[],"['substance', 'object', 'medium', 'conveyance']"
+carefully,"['cautiously', 'carefully']","['carelessly', 'incautiously']",[]
+Sometimes,['sometimes'],[],[]
+a,"['type_A', 'deoxyadenosine_monophosphate', 'ampere', 'axerophthol', 'angstrom_unit', 'group_A', 'amp', 'adenine', 'a', 'angstrom', 'vitamin_A', 'antiophthalmic_factor', 'A']",[],"['fat-soluble_vitamin', 'current_unit', 'metric_linear_unit', 'blood_group', 'nucleotide', 'purine', 'letter']"
+bad,"['unfit', 'badly', 'high-risk', 'defective', 'spoilt', 'unsound', 'risky', 'spoiled', 'tough', 'sorry', 'big', 'uncollectible', 'forged', 'speculative', 'badness', 'regretful', 'bad']","['goodness', 'unregretful', 'good']",['quality']
+driver,"['driver', 'number_one_wood', 'device_driver']",['nondriver'],"['golfer', 'worker', 'utility_program', 'wood', 'operator']"
+causes,"['movement', 'stimulate', 'get', 'effort', 'campaign', 'causal_agent', 'lawsuit', 'case', 'reason', 'cause', 'causal_agency', 'induce', 'do', 'suit', 'grounds', 'drive', 'have', 'make', 'causa', 'crusade']",[],"['origin', 'physical_entity', 'make', 'venture', 'justification', 'proceeding']"
+accidents,"['stroke', 'accident', 'chance_event', 'fortuity']",[],"['mishap', 'happening']"
